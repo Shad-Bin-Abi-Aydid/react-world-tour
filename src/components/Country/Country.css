@@ -4,3 +4,10 @@
     padding:15px;
     border-radius: 15px;
 }
+.visited{
+    background-color: bisque;
+}
+
+.nonVisited{
+    background-color: rgb(250, 137, 102);
+}
